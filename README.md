@@ -1,5 +1,5 @@
 # 👋 Hey! I Am Your xD :
-[![Contact Me On Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xD_Boi) [![My Channel](https://img.shields.io/badge/TG%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xD_Botsz) [![My Channel](https://img.shields.io/badge/Support%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xD_Botsz)
+[![Contact Me On Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xD_Boi) [![My Channel](https://img.shields.io/badge/TG%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xD_Botsz) [![My Channel](https://img.shields.io/badge/Contact%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xD_Botsz)
 
 ==================================
 ### My GitHub Stats :
