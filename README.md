@@ -9,7 +9,7 @@
 ### Frequently Used Languages :
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xD-Botzz&langs_count=5&theme=tokyonight",align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xD-Botzz&langs_count=5&theme=tokyonight">
 
 ==================================
 # Some Projects :
