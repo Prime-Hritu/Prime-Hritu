@@ -13,6 +13,6 @@
 
 # Some Projects 
   
- <a href="https://github.com/ITZ-ZAID/ZAID-USERBOT"> 
+ <a href="https://github.com/xD-Botzz/BotStatus-New"> 
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xD-Botzz&repo=BotStatus-New&cache_seconds=86400&theme=gotham"> 
  </a>
