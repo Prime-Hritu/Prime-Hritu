@@ -1,1 +1,1 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=xD-Botzz&count_private=true&showicons=true&bg_color=00000000)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=xD-Botzz&count_private=true&showicons=true&theme=tokyonight)]()
