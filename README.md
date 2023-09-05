@@ -14,5 +14,5 @@
 # Some Projects 
   
  <a href="https://github.com/ITZ-ZAID/ZAID-USERBOT"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=ZAID-USERBOT&cache_seconds=86400&theme=gotham"> 
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xD-Botzz&repo=BotStatus-New&cache_seconds=86400&theme=gotham"> 
  </a>
