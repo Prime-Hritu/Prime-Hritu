@@ -10,3 +10,9 @@
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xD-Botzz&langs_count=5&theme=tokyonight)]()
+
+# Some Projects 
+  
+ <a href="https://github.com/ITZ-ZAID/ZAID-USERBOT"> 
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=ZAID-USERBOT&cache_seconds=86400&theme=gotham"> 
+ </a>
