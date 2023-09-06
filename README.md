@@ -23,3 +23,6 @@
  <a href="https://github.com/xD-Botzz/BotStatus-New"> 
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xD-Botzz&repo=BotStatus-New&cache_seconds=86400&theme=gotham"> 
  </a>
+<a href="https://github.com/xD-Botzz/image2pdf-Bot"> 
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xD-Botzz&repo=image2pdf-Bot&cache_seconds=86400&theme=gotham"> 
+ </a>
