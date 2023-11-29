@@ -4,7 +4,7 @@
 
 ## Contact Me :
 
-[![Contact Me On Telegram](https://img.shields.io/badge/Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xD_Boi) [![My Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xD_Botsz) [![My Channel](https://img.shields.io/badge/Contact%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xD_ContactBot)
+[![Contact Me On Telegram](https://img.shields.io/badge/Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Prime_Hritu) [![My Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Private_Bots) [![My Channel](https://img.shields.io/badge/Contact%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PrivateHelpXBot)
 
 ==================================
 ### My GitHub Stats :
@@ -20,9 +20,6 @@
 
 ### Some Projects :
   
- <a href="https://github.com/xD-Botzz/BotStatus-New"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xD-Botzz&repo=BotStatus-New&cache_seconds=86400&theme=gotham"> 
- </a>
 <a href="https://github.com/xD-Botzz/image2pdf-Bot"> 
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xD-Botzz&repo=image2pdf-Bot&cache_seconds=86400&theme=gotham"> 
  </a>
