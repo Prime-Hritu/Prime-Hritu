@@ -1,6 +1,6 @@
 # 👋 Hey! I Am Your Hritu :
 ## Profile Views :
-[![Profile views](https://komarev.com/ghpvc/?username=xD-Botzz&label=Profile%20views&style=for-the-badge)](https://github.com/xD-Botzz)
+[![Profile views](https://komarev.com/ghpvc/?username=xD-Botzz&label=Profile%20views&style=for-the-badge)](https://github.com/Prime-Hritu)
 
 ## Contact Me :
 
@@ -8,18 +8,18 @@
 
 ==================================
 ### My GitHub Stats :
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=xD-Botzz&count_private=true&showicons=true&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Prime-Hritu&count_private=true&showicons=true&theme=tokyonight)]()
 
 ==================================
 ### Frequently Used Languages :
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xD-Botzz&langs_count=5&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prime-Hritu&langs_count=5&theme=tokyonight">
 </p>
 ==================================
 
 ### Some Projects :
   
-<a href="https://github.com/xD-Botzz/image2pdf-Bot"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xD-Botzz&repo=image2pdf-Bot&cache_seconds=86400&theme=gotham"> 
+<a href="https://github.com/Prime-Hritu/image2pdf-Bot"> 
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prime-Hritu&repo=image2pdf-Bot&cache_seconds=86400&theme=gotham"> 
  </a>
