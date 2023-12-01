@@ -11,8 +11,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Prime-Hritu&count_private=true&showicons=true&theme=tokyonight)]()
 
 ==================================
-## 📋 Badges
-[![An image of @Prime-Hritu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xditya)](https://holopin.io/@Prime-Hritu)
+## 📋 Badges[![An image of @Prime-Hritu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xditya)](https://holopin.io/@Prime-Hritu)
 ==================================
 
 ### Frequently Used Languages :
