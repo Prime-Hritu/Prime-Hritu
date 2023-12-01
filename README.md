@@ -11,9 +11,8 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Prime-Hritu&count_private=true&showicons=true&theme=tokyonight)]()
 
 ==================================
-## 🎵 Now playing
-
-[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/314duk7cxo63als4pucdslhdxfem)
+## 📋 Badges
+[![An image of @Prime-Hritu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xditya)](https://holopin.io/@Prime-Hritu)
 ==================================
 
 ### Frequently Used Languages :
