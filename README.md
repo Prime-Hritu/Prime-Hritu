@@ -4,7 +4,7 @@
 
 ## Contact Me :
 
-[![Contact Me On Telegram](https://img.shields.io/badge/Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Prime_Hritu) [![My Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Private_Bots) [![My Channel](https://img.shields.io/badge/Contact%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PrivateHelpXBot)
+[![Contact Me On Telegram](https://img.shields.io/badge/Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=#9054C6)](https://t.me/Prime_Hritu) [![My Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=#9054C6)](https://t.me/Private_Bots) [![My Channel](https://img.shields.io/badge/Contact%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=#9054C6)](https://t.me/PrivateHelpXBot)
 
 ==================================
 ### My GitHub Stats :
