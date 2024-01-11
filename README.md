@@ -1,6 +1,6 @@
 # 👋 Hey! I Am Your Hritu :
 ## Profile Views :
-[![Profile views](https://komarev.com/ghpvc/?username=xD-Botzz&label=Profile%20views&style=for-the-badge)](https://github.com/Prime-Hritu)
+[![Profile views](https://komarev.com/ghpvc/?username=xD-Botzz&label=Profile%20views&style=for-the-badge&color=A854C4)](https://github.com/Prime-Hritu)
 
 ## Contact Me :
 
