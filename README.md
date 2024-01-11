@@ -8,7 +8,7 @@
 
 ==================================
 ### My GitHub Stats :
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Prime-Hritu&count_private=true&showicons=true&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Prime-Hritu&count_private=true&showicons=true&theme=ambient_gradient)]()
 
 ==================================
 ## 📋 Badges[![An image of @Prime-Hritu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xditya)](https://holopin.io/@Prime-Hritu)
@@ -17,15 +17,15 @@
 ### Frequently Used Languages :
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prime-Hritu&langs_count=5&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prime-Hritu&langs_count=5&theme=ambient_gradient">
 </p>
 ==================================
 
 ### Some Projects :
   
 <a href="https://github.com/Prime-Hritu/image2pdf-Bot"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prime-Hritu&repo=image2pdf-Bot&cache_seconds=86400&theme=gotham"> 
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prime-Hritu&repo=image2pdf-Bot&cache_seconds=86400&theme=ambient_gradient"> 
  </a>
  <a href="https://github.com/Prime-Hritu/image2pdf-Bot"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prime-Hritu&repo=Anime-Generator-Bot&cache_seconds=86400&theme=dark"> 
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prime-Hritu&repo=Anime-Generator-Bot&cache_seconds=86400&theme=ambient_gradient"> 
  </a>
