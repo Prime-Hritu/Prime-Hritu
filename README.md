@@ -26,3 +26,6 @@
 <a href="https://github.com/Prime-Hritu/image2pdf-Bot"> 
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prime-Hritu&repo=image2pdf-Bot&cache_seconds=86400&theme=gotham"> 
  </a>
+ <a href="https://github.com/Prime-Hritu/image2pdf-Bot"> 
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prime-Hritu&repo=Anime-Generator-Bot&cache_seconds=86400&theme=gotham"> 
+ </a>
