@@ -1,32 +1,76 @@
-# 👋 Hey! I Am Your Hritu :
-## Profile Views :
-[![Profile views](https://komarev.com/ghpvc/?username=xD-Botzz&label=Profile%20views&style=for-the-badge&color=A854C4)](https://github.com/Prime-Hritu)
+# Hi there, I'm Hritu Raj ! 👋
 
-## Contact Me :
+[![Telegram](https://img.shields.io/badge/Telegram-Prime%20Hritu-red?logo=telegram)](https://t.me/Prime_Hritu) 
+[![Telegram Channel](https://img.shields.io/badge/Channel-Private%20Bots-blue?logo=telegram)](https://t.me/Private_Bots)
 
-[![Contact Me On Telegram](https://img.shields.io/badge/Contact-A854C4?style=for-the-badge&logo=telegram)](https://t.me/Prime_Hritu) [![My Channel](https://img.shields.io/badge/Channel-A854C4?style=for-the-badge&logo=telegram)](https://t.me/Private_Bots) [![My Channel](https://img.shields.io/badge/Contact%20Bot-A854C4?style=for-the-badge&logo=telegram)](https://t.me/PrivateHelpXBot)
+I'm a passionate developer and open source enthusiast. Welcome to my GitHub profile where I share projects, contributions, and more exciting updates!
 
-==================================
-### My GitHub Stats :
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Prime-Hritu&count_private=true&showicons=true&theme=ambient_gradient)]()
+---
 
-==================================
-## 📋 Badges[![An image of @Prime-Hritu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xditya)](https://holopin.io/@Prime-Hritu)
-==================================
+## 🚀 About Me
 
-### Frequently Used Languages :
+- 🔭 I’m currently working on some exciting projects.
+- 🌱 I’m learning new technologies and frameworks.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about anything related to development or open source.
+- 📫 How to reach me: [Telegram](https://t.me/Prime_Hritu)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prime-Hritu&langs_count=5&theme=ambient_gradient">
-</p>
-==================================
+---
 
-### Some Projects :
-  
-<a href="https://github.com/Prime-Hritu/image2pdf-Bot"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prime-Hritu&repo=image2pdf-Bot&cache_seconds=86400&theme=ambient_gradient"> 
- </a>
- 
- <a href="https://github.com/Prime-Hritu/image2pdf-Bot"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prime-Hritu&repo=Anime-Generator-Bot&cache_seconds=86400&theme=ambient_gradient"> 
- </a>
+## 🏆 Git Rank
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Prime-Hritu&show_icons=true&theme=onedark&hide=stars,commits,prs,issues,contribs&rank_icon=github&card_width=330"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Prime-Hritu&show_icons=true&hide=stars,commits,prs,issues,contribs&rank_icon=github&card_width=330"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prime-Hritu&show_icons=true&hide=stars,commits,prs,issues,contribs&rank_icon=github&card_width=330" />
+</picture>
+
+## 🌐 Most Used Langs
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Prime-Hritu&layout=donut&theme=onedark&card_width=200"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Prime-Hritu&layout=donut&card_width=200"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prime-Hritu&layout=donut&card_width=200" />
+</picture>
+
+## WakaTime Stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Prime_Hritu&theme=onedark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Prime_Hritu"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prime_Hritu" />
+</picture>
+
+
+## ⭐ Total Stars Earned
+
+![GitHub Stars](https://img.shields.io/github/stars/Prime-Hritu?style=social&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIgdmlld0JveD0iMCAwIDEyMCAxMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlnb24gcG9pbnRzPSI2MCA5IDcyIDQ1IDExOSA0NSA4MCA2OSA5MSAxMTUgNjAgODcgMjkgMTE1IDQwIDY5IDkgNDUgNTUgNDUiIGZpbGw9IiNGRUQwMzIiIHN0cm9rZT0iIzYwMDAwMCIgc3Ryb2tlLXdpZHRoPSIzIi8+PC9zdmc+)
+
+---
+
+## 📫 Connect with Me
+
+- **Telegram:** [@Prime_Hritu](https://t.me/Prime_Hritu)
+- **Telegram Channel:** [@Private_Bots](https://t.me/Private_Bots)
+
+---
+
+> *I'm always excited to collaborate and learn from fellow developers. Feel free to reach out or fork any of my repositories!*
