@@ -21,14 +21,14 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Prime-Hritu&show_icons=true&theme=onedark&hide=stars,commits,prs,issues,contribs&rank_icon=github&card_width=330"
+    srcset="https://github-readme-stats.vercel.app/api?username=Prime-Hritu&show_icons=true&theme=onedark&hide=stars%2Ccommits%2Cprs%2Cissues%2Ccontribs&rank_icon=github&card_width=330"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Prime-Hritu&show_icons=true&hide=stars,commits,prs,issues,contribs&rank_icon=github&card_width=330"
+    srcset="https://github-readme-stats.vercel.app/api?username=Prime-Hritu&show_icons=true&hide=stars%2Ccommits%2Cprs%2Cissues%2Ccontribs&rank_icon=github&card_width=330"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Prime-Hritu&show_icons=true&hide=stars,commits,prs,issues,contribs&rank_icon=github&card_width=330" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prime-Hritu&show_icons=true&hide=stars%2Ccommits%2Cprs%2Cissues%2Ccontribs&rank_icon=github&card_width=330" />
 </picture>
 
 ## 🌐 Most Used Langs
