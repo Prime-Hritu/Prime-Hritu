@@ -47,17 +47,7 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
 
 ## WakaTime Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Prime_Hritu&theme=onedark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Prime_Hritu"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prime_Hritu" />
-</picture>
+
 
 
 ## ⭐ Total Stars Earned
