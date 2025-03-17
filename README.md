@@ -94,14 +94,14 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
 
 ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ <picture>
     <source
-      srcset="https://streak-stats.demolab.com?user=Prime-Hritu&theme=onedark&card_width=400&hide_total_contributions=true"
+      srcset="https://streak-stats.demolab.com?user=Prime-Hritu&theme=onedark&hide_total_contributions=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://streak-stats.demolab.com?user=Prime-Hritu&card_width=400&hide_total_contributions=true"
+      srcset="https://streak-stats.demolab.com?user=Prime-Hritu&hide_total_contributions=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://streak-stats.demolab.com?user=Prime-Hritu&card_width=400&hide_total_contributions=true" />
+    <img src="https://streak-stats.demolab.com?user=Prime-Hritu&hide_total_contributions=true" />
   </picture>
 
 ---
