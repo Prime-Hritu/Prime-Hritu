@@ -17,19 +17,6 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
 
 ---
 
-<picture>
-  <source
-    srcset="https://skillicons.dev/icons?i=html%2Cjs%2Cpython%2Ccss%2Cvscode%2Cnodejs%2Cmongodb%2Cbash%2Cphp%2Clinux&theme=dark&perline=5"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://skillicons.dev/icons?i=html%2Cjs%2Cpython%2Ccss%2Cvscode%2Cnodejs%2Cmongodb%2Cbash%2Cphp%2Clinux&theme=light&perline=5"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://skillicons.dev/icons?i=html%2Cjs%2Cpython%2Ccss%2Cvscode%2Cnodejs%2Cmongodb%2Cbash%2Cphp%2Clinux&theme=light&perline=5" />
-</picture>
-
----
 ## 🏆 Git Rank
 
 <picture>
@@ -73,7 +60,7 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
 </picture>
 
 
-## ⭐ More Stats
+## ⭐ More:
 
 <picture>
   <source
@@ -85,6 +72,18 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Prime-Hritu&data=followers%2Crepositories%2Cstars%2Ccommits&theme=default" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://skillicons.dev/icons?i=html%2Cjs%2Cpython%2Ccss%2Cvscode%2Cnodejs%2Cmongodb%2Cbash%2Cphp%2Clinux&theme=dark&perline=5"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://skillicons.dev/icons?i=html%2Cjs%2Cpython%2Ccss%2Cvscode%2Cnodejs%2Cmongodb%2Cbash%2Cphp%2Clinux&theme=light&perline=5"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://skillicons.dev/icons?i=html%2Cjs%2Cpython%2Ccss%2Cvscode%2Cnodejs%2Cmongodb%2Cbash%2Cphp%2Clinux&theme=light&perline=5" />
 </picture>
 
 ---
