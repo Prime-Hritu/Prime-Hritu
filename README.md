@@ -73,11 +73,7 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
   />
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Prime-Hritu&data=followers%2Crepositories%2Cstars%2Ccommits&theme=default" />
 </picture>
-
-## Skills 🥲
-
-<div style="margin-left: 30px;">
-  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <picture>
+  ‎ ‎ ‎ ‎ ‎ ‎ ‎<picture>
     <source
       srcset="https://skillicons.dev/icons?i=html%2Cjs%2Cpython%2Ccss%2Cvscode%2Cnodejs%2Cmongodb%2Cbash%2Cphp%2Clinux&theme=dark&perline=5"
       media="(prefers-color-scheme: dark)"
@@ -88,7 +84,6 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
     />
     <img src="https://skillicons.dev/icons?i=html%2Cjs%2Cpython%2Ccss%2Cvscode%2Cnodejs%2Cmongodb%2Cbash%2Cphp%2Clinux&theme=light&perline=5" />
   </picture>
-</div>
 
 
 ---
