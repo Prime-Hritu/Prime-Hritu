@@ -92,7 +92,7 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
 
 ---
 
-<picture>
+‎ ‎ ‎‎‎ <picture>
     <source
       srcset="https://streak-stats.demolab.com?user=Prime-Hritu&theme=onedark&card_width=300&hide_total_contributions=true"
       media="(prefers-color-scheme: dark)"
