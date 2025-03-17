@@ -60,9 +60,19 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
 </picture>
 
 
-## ⭐ Total Stars Earned
+## ⭐ More Stats
 
-![GitHub Stars](https://img.shields.io/github/stars/Prime-Hritu?style=social&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIgdmlld0JveD0iMCAwIDEyMCAxMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBvbHlnb24gcG9pbnRzPSI2MCA5IDcyIDQ1IDExOSA0NSA4MCA2OSA5MSAxMTUgNjAgODcgMjkgMTE1IDQwIDY5IDkgNDUgNTUgNDUiIGZpbGw9IiNGRUQwMzIiIHN0cm9rZT0iIzYwMDAwMCIgc3Ryb2tlLXdpZHRoPSIzIi8+PC9zdmc+)
+<picture>
+  <source
+    srcset="https://github-widgetbox.vercel.app/api/profile?username=Prime-Hritu&data=followers,repositories,stars,commits&theme=oblivion"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-widgetbox.vercel.app/api/profile?username=Prime-Hritu&data=followers,repositories,stars,commits&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Prime-Hritu&data=followers,repositories,stars,commits&theme=default" />
+</picture>
 
 ---
 
