@@ -74,6 +74,8 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Prime-Hritu&data=followers%2Crepositories%2Cstars%2Ccommits&theme=default" />
 </picture>
 
+## Skills 🥲
+
 <div style="margin-left: 30px;">
   <picture>
     <source
