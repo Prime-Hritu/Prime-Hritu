@@ -60,7 +60,7 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
 </picture>
 
 
-## ⭐ More:
+## ⭐ More
 
 <picture>
   <source
