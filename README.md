@@ -64,20 +64,6 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
 
 ## ⭐ More
 
-<picture>
-  <source
-    srcset="https://github-widgetbox.vercel.app/api/profile?username=Prime-Hritu&data=followers%2Crepositories%2Cstars%2Ccommits&theme=oblivion"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-widgetbox.vercel.app/api/profile?username=Prime-Hritu&data=followers%2Crepositories%2Cstars%2Ccommits&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Prime-Hritu&data=followers%2Crepositories%2Cstars%2Ccommits&theme=default" />
-</picture>
-
----
-
 <div>
   ‎ ‎ ‎ ‎ ‎‎‎ ‎‎<picture>
     <source
