@@ -106,7 +106,7 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
 
 ---
 
-## 📫 Connect with Me
+## 📫 Contact with Me
 
 - **Telegram:** [@Prime_Hritu](https://t.me/Prime_Hritu)
 - **Telegram Channel:** [@Private_Bots](https://t.me/Private_Bots)
