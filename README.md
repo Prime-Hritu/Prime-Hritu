@@ -119,5 +119,6 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
 </a>
 
+---
 
 > *I'm always excited to collaborate and learn from fellow developers. Feel free to reach out or fork any of my repositories!*
