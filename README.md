@@ -17,9 +17,7 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
 
 ---
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+[![Metrics](./github-metrics.svg)](https://xditya.me)
 
 ## 🏆 Git Rank
 
