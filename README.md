@@ -17,7 +17,7 @@ I'm a passionate developer and open source enthusiast. Welcome to my GitHub prof
 
 ---
 
-[![Metrics](./github-metrics.svg)](https://xditya.me)
+[![Metrics](./github-metrics.svg)](https://github.com/Prime-Hritu)
 
 ## 🏆 Git Rank
 
