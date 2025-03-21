@@ -15,7 +15,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
-          base: activity, repositories
+          base: activity, repositories, community
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
